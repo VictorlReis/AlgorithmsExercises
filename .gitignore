@@ -1,5 +1,11 @@
-bin/
+﻿bin/
 obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+/.idea/.idea.AlgorithmsExercises/.idea/encodings.xml
+/.idea/.idea.AlgorithmsExercises/.idea/indexLayout.xml
+/.idea/.idea.AlgorithmsExercises/.idea/projectSettingsUpdater.xml
+/.idea/.idea.AlgorithmsExercises/.idea/vcs.xml
+/.idea/.idea.AlgorithmsExercises/.idea/workspace.xml
+/Program.cs
