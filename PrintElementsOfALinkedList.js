@@ -6,3 +6,5 @@
 
     console.log(head.data);
 }
+
+console.log('test');
